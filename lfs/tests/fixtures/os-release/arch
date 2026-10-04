@@ -1,0 +1,6 @@
+NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+PRETTY_NAME="Arch Linux"
+ANSI_COLOR="0;36"
+HOME_URL="https://archlinux.org/"

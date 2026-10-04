@@ -1,0 +1,7 @@
+NAME="Fedora Linux"
+VERSION="43 (Cloud Edition)"
+ID=fedora
+VERSION_ID=43
+PLATFORM_ID="platform:fc43"
+PRETTY_NAME="Fedora Linux 43 (Cloud Edition)"
+HOME_URL="https://fedoraproject.org/"
